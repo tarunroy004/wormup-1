@@ -14,7 +14,7 @@ body, html {
     transform: translate(-50%, -50%);
     height: 30px;
     width: 100px;
-    background-color: aquamarine;
+    background-color: red;
     border: 2px solid rgba(128, 128, 128, 0.533);
     border-radius: 100px;
 }
